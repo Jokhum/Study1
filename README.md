@@ -1,2 +1,2 @@
-# Study1
+# My First Code
 Study Test Repository
